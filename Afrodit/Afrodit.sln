@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Afrodit.Core", "Afrodit.Core\Afrodit.Core.csproj", "{E2B333E9-CCAF-453A-9C45-6CF1543C6645}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Afrodit.Business", "Afrodit.Business\Afrodit.Business.csproj", "{71DCB318-6683-4265-8D58-AF49C53574CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Afrodit.Repositories", "Afrodit.DataAccess\Afrodit.Repositories.csproj", "{13F9E3AB-9B84-405B-AD98-3C1B3490D436}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Afrodit.Entities", "Afrodit.Entities\Afrodit.Entities.csproj", "{9D0B1B55-840C-4FA8-B05C-164A756AF021}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Afrodit.WebApi", "Afrodit.WebApi\Afrodit.WebApi.csproj", "{CF5578B5-A32E-40C1-BFDC-32CE67AE1890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2B333E9-CCAF-453A-9C45-6CF1543C6645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B333E9-CCAF-453A-9C45-6CF1543C6645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B333E9-CCAF-453A-9C45-6CF1543C6645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B333E9-CCAF-453A-9C45-6CF1543C6645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DCB318-6683-4265-8D58-AF49C53574CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DCB318-6683-4265-8D58-AF49C53574CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DCB318-6683-4265-8D58-AF49C53574CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DCB318-6683-4265-8D58-AF49C53574CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F9E3AB-9B84-405B-AD98-3C1B3490D436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F9E3AB-9B84-405B-AD98-3C1B3490D436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F9E3AB-9B84-405B-AD98-3C1B3490D436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F9E3AB-9B84-405B-AD98-3C1B3490D436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0B1B55-840C-4FA8-B05C-164A756AF021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0B1B55-840C-4FA8-B05C-164A756AF021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0B1B55-840C-4FA8-B05C-164A756AF021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0B1B55-840C-4FA8-B05C-164A756AF021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5578B5-A32E-40C1-BFDC-32CE67AE1890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5578B5-A32E-40C1-BFDC-32CE67AE1890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5578B5-A32E-40C1-BFDC-32CE67AE1890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5578B5-A32E-40C1-BFDC-32CE67AE1890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8803A0E6-1844-49AB-99B3-3138E130CE0E}
+	EndGlobalSection
+EndGlobal

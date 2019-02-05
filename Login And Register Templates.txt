@@ -1,0 +1,18 @@
+	http://localhost:58238/user/login
+
+	{
+	
+		"Username":"Bahadir",
+		"Password":"6esbuPT4Fj1BmgL+VP0UWxSs3n/wccG0d26GDN3PfVk="
+	}
+
+
+	http://localhost:58238/user/register
+
+	{
+		"FullName":"Bahadir Demir",
+		"Username":"Bahadir1478",
+		"Password":"6esbuPT4Fj1BmgL+VP0UWxSs3n/wccG0d26GDN3PfVk=",
+		"Email":"bahadir@bahadir.com",
+		"Gender":"0"
+	}
